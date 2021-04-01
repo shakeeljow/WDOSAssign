@@ -130,7 +130,7 @@ header, footer{
 .secNav ul{
     list-style-type: none;
     padding: 0;
-    margin: 5;
+    margin: 10pt;
     display: flex;
     background-color: lightseagreen;
     flex-flow: row wrap;
@@ -206,4 +206,27 @@ td{
     height: 30px;
 }
 
+/* buy now page */
+input[type="checkbox"]{
+    margin-right: 3%;
+    margin-bottom: 1%;
+}  
+
+#addord, #addfav, #loyalty, #placeord, #favord{
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%
+}
+
+#quan{
+    width: 10%;
+}
+ #buyprod, #size{
+     width: 50%;
+     margin-right: 2%;
+ }
+
+ #manuf{
+     width: 80%;
+ }
 
