@@ -1,2 +1,2 @@
 # WDOSAssign
-WDOS Assignment 1 about Sri Lankan Eco-Friendly Products
+WDOS Assignment 2 about Sri Lankan Eco-Friendly Products Buy Now Page
